@@ -1,11 +1,12 @@
-## Hi there 👋
+## Hi there 👋 I'm Leonardo
 
 🎓 Computer Engineering student with a degree in Information Technology  
-💻 Backend-focused developer
+💻 Backend developer focused on building scalable, reliable, and well-structured systems  
+🚀 Interested in APIs, microservices, messaging, and cloud-based solutions  
 
 ---
 
-### 🛠️ Languages and Tools I'm Working/Learning
+### 🛠️ Backend Stack & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
@@ -18,7 +19,7 @@
 
 ---
 
-### 📫 Reach Me
+### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://www.linkedin.com/in/seulink](https://www.linkedin.com/in/bowi3/))
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:leonnardofender@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bowi3/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:leonnardofender@gmail.com)
